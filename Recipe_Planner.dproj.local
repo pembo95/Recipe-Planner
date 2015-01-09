@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2015/01/09 22:29:39.828,=G:\My Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/01/09 22:33:24.890,G:\Desktop\New Project\Main_Menu.pas=G:\My Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/01/09 22:33:24.890,G:\Desktop\New Project\Main_Menu.dfm=G:\My Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2015/01/09 22:33:50.918,G:\Desktop\New Project\Recipe_Planner.dproj=G:\My Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2015/01/09 22:40:32.045,G:\My Documents\GitHub\Recipe-Planner\Recipe_Planner.dproj=G:\Desktop\New Project\Recipe_Planner.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
