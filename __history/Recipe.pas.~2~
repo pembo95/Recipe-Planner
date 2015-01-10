@@ -8,8 +8,7 @@ uses
 
 type
   TForm3 = class(TForm)
-    View_Recipes_Button: TButton;
-    Add_Recipe_Button: TButton;
+    Button1: TButton;
   private
     { Private declarations }
   public

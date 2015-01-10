@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2015/01/09 22:29:39.828,=G:\My Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2015/01/09 22:33:24.890,G:\Desktop\New Project\Main_Menu.dfm=G:\My Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2015/01/09 22:33:24.890,G:\Desktop\New Project\Main_Menu.pas=G:\My Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2015/01/09 22:33:50.918,G:\Desktop\New Project\Recipe_Planner.dproj=G:\My Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2015/01/09 22:40:32.045,G:\My Documents\GitHub\Recipe-Planner\Recipe_Planner.dproj=G:\Desktop\New Project\Recipe_Planner.dproj</Transaction>
-    <Transaction>2015/01/09 22:40:53.895,G:\My Documents\GitHub\Recipe-Planner\Main_Menu.pas=G:\Desktop\New Project\Main_Menu.pas</Transaction>
-    <Transaction>2015/01/09 22:40:53.895,G:\My Documents\GitHub\Recipe-Planner\Main_Menu.dfm=G:\Desktop\New Project\Main_Menu.dfm</Transaction>
-    <Transaction>2015/01/09 22:48:02.836,=G:\My Documents\GitHub\Recipe-Planner\Unit2.pas</Transaction>
-    <Transaction>2015/01/09 22:48:13.658,G:\My Documents\GitHub\Recipe-Planner\Calendar.dfm=G:\My Documents\GitHub\Recipe-Planner\Unit2.dfm</Transaction>
-    <Transaction>2015/01/09 22:48:13.658,G:\My Documents\GitHub\Recipe-Planner\Calendar.pas=G:\My Documents\GitHub\Recipe-Planner\Unit2.pas</Transaction>
-    <Transaction>2015/01/09 23:14:57.863,=G:\My Documents\GitHub\Recipe-Planner\Unit3.pas</Transaction>
-    <Transaction>2015/01/09 23:17:05.005,G:\My Documents\GitHub\Recipe-Planner\Recipe.pas=G:\My Documents\GitHub\Recipe-Planner\Unit3.pas</Transaction>
-    <Transaction>2015/01/09 23:17:05.005,G:\My Documents\GitHub\Recipe-Planner\Recipe.dfm=G:\My Documents\GitHub\Recipe-Planner\Unit3.dfm</Transaction>
+	<Transactions>
+    <Transaction>2015/01/09 22:29:39.000.828,=G:\My Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/01/09 22:33:24.000.890,G:\My Documents\Embarcadero\Studio\Projects\Unit1.dfm=G:\Desktop\New Project\Main_Menu.dfm</Transaction>
+    <Transaction>2015/01/09 22:33:24.000.890,G:\My Documents\Embarcadero\Studio\Projects\Unit1.pas=G:\Desktop\New Project\Main_Menu.pas</Transaction>
+    <Transaction>2015/01/09 22:33:50.000.918,G:\My Documents\Embarcadero\Studio\Projects\Project1.dproj=G:\Desktop\New Project\Recipe_Planner.dproj</Transaction>
+    <Transaction>2015/01/09 22:40:32.000.045,G:\Desktop\New Project\Recipe_Planner.dproj=G:\My Documents\GitHub\Recipe-Planner\Recipe_Planner.dproj</Transaction>
+    <Transaction>2015/01/09 22:40:53.000.895,G:\Desktop\New Project\Main_Menu.dfm=G:\My Documents\GitHub\Recipe-Planner\Main_Menu.dfm</Transaction>
+    <Transaction>2015/01/09 22:40:53.000.895,G:\Desktop\New Project\Main_Menu.pas=G:\My Documents\GitHub\Recipe-Planner\Main_Menu.pas</Transaction>
+    <Transaction>2015/01/09 22:48:02.000.836,=G:\My Documents\GitHub\Recipe-Planner\Unit2.pas</Transaction>
+    <Transaction>2015/01/09 22:48:13.000.658,G:\My Documents\GitHub\Recipe-Planner\Unit2.dfm=G:\My Documents\GitHub\Recipe-Planner\Calendar.dfm</Transaction>
+    <Transaction>2015/01/09 22:48:13.000.658,G:\My Documents\GitHub\Recipe-Planner\Unit2.pas=G:\My Documents\GitHub\Recipe-Planner\Calendar.pas</Transaction>
+    <Transaction>2015/01/09 23:14:57.000.863,=G:\My Documents\GitHub\Recipe-Planner\Unit3.pas</Transaction>
+    <Transaction>2015/01/09 23:17:05.000.005,G:\My Documents\GitHub\Recipe-Planner\Unit3.dfm=G:\My Documents\GitHub\Recipe-Planner\Recipe.dfm</Transaction>
+    <Transaction>2015/01/09 23:17:05.000.005,G:\My Documents\GitHub\Recipe-Planner\Unit3.pas=G:\My Documents\GitHub\Recipe-Planner\Recipe.pas</Transaction>
   </Transactions>
 </BorlandProject>
