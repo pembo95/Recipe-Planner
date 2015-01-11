@@ -4,15 +4,12 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ExtCtrls;
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
 
 type
   TForm3 = class(TForm)
     View_Recipes_Button: TButton;
     Add_Recipe_Button: TButton;
-    Recipe_Image_Box: TImage;
-    ListBox1: TListBox;
-    Delete_Recipe_Button: TButton;
   private
     { Private declarations }
   public

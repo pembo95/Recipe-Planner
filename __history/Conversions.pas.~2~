@@ -1,18 +1,16 @@
-unit Recipe;
+unit Conversions;
 
 interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ExtCtrls;
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
 
 type
-  TForm3 = class(TForm)
-    View_Recipes_Button: TButton;
-    Add_Recipe_Button: TButton;
-    Recipe_Image_Box: TImage;
+  TForm4 = class(TForm)
     ListBox1: TListBox;
-    Delete_Recipe_Button: TButton;
+    ListBox2: TListBox;
+    Start_Convert_Edit: TEdit;
   private
     { Private declarations }
   public
@@ -20,7 +18,7 @@ type
   end;
 
 var
-  Form3: TForm3;
+  Form4: TForm4;
 
 implementation
 

@@ -1,7 +1,7 @@
 object Form3: TForm3
   Left = 0
   Top = 0
-  Caption = 'Recipes'
+  Caption = 'Form3'
   ClientHeight = 388
   ClientWidth = 445
   Color = clBtnFace
@@ -15,7 +15,7 @@ object Form3: TForm3
   TextHeight = 13
   object Recipe_Image_Box: TImage
     Left = 300
-    Top = 242
+    Top = 231
     Width = 137
     Height = 138
   end
@@ -39,7 +39,7 @@ object Form3: TForm3
     Left = 8
     Top = 23
     Width = 265
-    Height = 357
+    Height = 346
     ItemHeight = 13
     TabOrder = 2
   end

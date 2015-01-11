@@ -1,8 +1,8 @@
 object Form3: TForm3
   Left = 0
   Top = 0
-  Caption = 'Recipes'
-  ClientHeight = 388
+  Caption = 'Form3'
+  ClientHeight = 340
   ClientWidth = 445
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
@@ -13,12 +13,6 @@ object Form3: TForm3
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
-  object Recipe_Image_Box: TImage
-    Left = 300
-    Top = 242
-    Width = 137
-    Height = 138
-  end
   object View_Recipes_Button: TButton
     Left = 300
     Top = 96
@@ -34,21 +28,5 @@ object Form3: TForm3
     Height = 57
     Caption = 'Add Recipe'
     TabOrder = 1
-  end
-  object ListBox1: TListBox
-    Left = 8
-    Top = 23
-    Width = 265
-    Height = 357
-    ItemHeight = 13
-    TabOrder = 2
-  end
-  object Delete_Recipe_Button: TButton
-    Left = 300
-    Top = 168
-    Width = 137
-    Height = 57
-    Caption = 'Delete Recipe'
-    TabOrder = 3
   end
 end
